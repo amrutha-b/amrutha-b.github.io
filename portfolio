@@ -1,0 +1,90 @@
+<html>
+<head>
+    <center>
+        <u><h1>Resume</h1></u>
+        <br><h2>amrutha</h2></br>
+        </center>
+    <style>
+        center
+ {
+ display: block;
+ margin: auto;
+  }
+name 
+{
+text-align: center;
+font-weight: bold;
+font-size: 50px; /*adjust the font size as needed */
+}
+</style>
+</head>
+<body>
+<image src="C:\Users\amru\Pictures\WhatsApp Image 2024-06-01at 8.32.41 PM(1).jpeg.jp.jpg" class="center"
+width="500" height="500">
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <style>
+/* Style for the left division */
+.left-division 
+{
+ float: left;
+width: 50%; /* Adjust as needed */
+background-color: #f0f0f0; /* Example background color */
+ }
+  /* Style for the right division */
+right-division
+ {
+ float: right;
+width: 50%; /* Adjust as needed */
+background-color: #e0e0e0; /* Example background color */
+}
+/* Style for the list items */ ul 
+{
+ list-style: none;
+padding: 0;
+ }
+ {
+ margin: 10px;
+font-size: 16px;
+}
+</style>
+</head>
+<body>
+<div class="left-division">
+ <u><h2 class="division-title">personal information</h2></
+        <ul>
+
+            <br><li>Father's Name : babu</li></ul></br>
+
+            <br><li>Mother's Name : ambili</li></br>
+
+            <br><li>Contact Number : 80647314</li></br>
+
+            <br><li>E-mail ID : amruthaamruababu@gmail.com</li></br>
+
+            <br><li>Address : 3/84, sannathi street, colachel, kanyakumari-629702
+</li></br>
+ </ul>
+</div>
+    <div class="right-division">
+M
+        <u><h2 class="division title">qualification</h2></u>
+        <ul>
+<li>SSLC : -
+  <br><br>board : state board </br></br></li>
+ <li>HSC : 82%
+<br><br>board : state board</br></br>
+</li>
+<li>DEGREE : B.E CSE</li> <br>br><li>CGPA : 8.5</br></br>
+ <br><br>College : Stella Mary's College of Engineering</br></br>
+        </li>
+        <li>
+        </ul>
+    </div>
+</body>
+</html>
